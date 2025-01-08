@@ -11,7 +11,7 @@
 | scikit-learn     | ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn) |
 | PyTorch          | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 | Test             | ![Test](https://img.shields.io/badge/-Testing-FF6347?logo=test&logoColor=white)       |
-| SAP              | ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)             |
+| ERP-SAP          | ![ERP-SAP](https://img.shields.io/badge/-ERP--SAP-0FAAFF?logo=sap&logoColor=white)    |
 
 
 
