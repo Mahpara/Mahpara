@@ -13,7 +13,7 @@
 | Test             | ![Test](https://img.shields.io/badge/-Testing-FF6347?logo=test&logoColor=white)       |
 | ERP-SAP          | ![ERP-SAP](https://img.shields.io/badge/-ERP--SAP-0FAAFF?logo=sap&logoColor=white)    |
 | Docker           | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)    |
-
+| Linux            | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)       |
 
 
 
