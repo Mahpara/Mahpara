@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, this is Mahpara!
 
-## Technologies I Use:
+## Technologies I Use 🚀
 
 | Technology      | Logo                                                                 |
 |------------------|----------------------------------------------------------------------|
